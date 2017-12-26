@@ -1,0 +1,8 @@
+log*
+__pycache__*
+saved*
+log*
+.backup*
+*.ipynb
+.ipynb_checkpoints*
+.DS_Store
